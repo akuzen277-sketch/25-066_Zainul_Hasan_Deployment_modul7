@@ -1,0 +1,10 @@
+.env
+.env.production
+.git
+node_modules
+tests
+
+phpunit.xml
+README.md
+.editorconfig
+.gitattributes
